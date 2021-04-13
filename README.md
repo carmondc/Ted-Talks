@@ -21,7 +21,7 @@ I'm interested in Ted Talks data from 2017 to do a better understanding in:
 The notebook available here showcases work related to the above question. 
 
 ## Results<a name="results"></a>
-The main findings of the code can be found at the post available [here](https://website)
+The main findings of the code can be found at the post available [here](https://carmond-chong.medium.com/the-world-of-ted-a4f64fb9fb86)
 
 ## Licensing, Authors, Acknowledgments<a name="licensing"></a>
 The data was scrapped from the official TED website and is available under the Creative Commons License. You can find the Licensing for the data and other descriptive information at the Kaggle's link available [here](https://www.kaggle.com/rounakbanik/ted-talks).
